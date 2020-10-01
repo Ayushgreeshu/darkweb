@@ -1,13 +1,13 @@
 # darkweb
 
-This used to be the repository holding the DarkScience website, that has been
+This is used for the repository holding the DarkScience website, that has been
 moved to https://git.drk.sc/darkscience/darkscience.net.
 
 At the moment this repository contains a Django application which powers the
 quotes system for DarkScience. This is a legacy part of the old website still
 in service.
 
-## Development Environment
+## Development Environment - An amazing experience 
 
 You can configure a development environment with the following:
 
